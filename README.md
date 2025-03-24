@@ -1,7 +1,9 @@
 # Edtech-Startup-Power-bi
 This dashboard visually represents data related to online courses, their types, skills covered, language distribution, and sub-category popularity. It is structured into multiple sections for better clarity.
 
-Power Bi Dashboard link 
+Power Bi Dashboard link :![Link](<iframe title="Edtech Startup" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYTQ4Y2VjODEtYWZhNS00ZTI4LThhMTAtMDk4ODViOTljYjgzIiwidCI6IjVkMGFhNmVhLTY2MjAtNDg2My05ZTIxLTllY2IxNDAyMjJiYyIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>)
+
+![Screenshot](https://github.com/sanskars101/Edtech-Startup-Power-bi/blob/ec29b3d28c823a453537a5e0cd702dc496a5d8c4/Screenshot%20Dashboard.png)
 
 Key Sections & Insights
 Course Type Popularity
